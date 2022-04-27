@@ -26,5 +26,5 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "proxy": "http://todo-env.eba-txkxsxsc.ap-south-1.elasticbeanstalk.com"
+  "proxy": "https://devopsdemo.1cloudhub.com"
 }
